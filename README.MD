@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/capa.png">
+    <img width="100" src="./assets/capa.png"> 
 </p>
 
 
@@ -8,14 +8,6 @@
 <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
 -------
-
-
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
 
 # Projeto EBOOK Gerado por I.A.s
 
@@ -48,10 +40,7 @@ Canva：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Um robô humanóide elegante observando o horizonte em um cenário futurista, cercado por luzes azuis, hologramas e elementos digitais.
-O ambiente deve ter um ar de inovação e descoberta, com fundo em tons de azul e prata, e iluminação suave e moderna.
-Estilo cinematográfico, realista e inspirador, representando o avanço da inteligência artificial e o início de uma nova era tecnológica.
-Alta resolução, formato vertical, ideal para capa de eBook. |
+| conteúdo | Um robô humanóide elegante observando o horizonte em um cenário futurista, cercado por luzes azuis, hologramas e elementos digitais. O ambiente deve ter um ar de inovação e descoberta, com fundo em tons de azul e prata, e iluminação suave e moderna. Estilo cinematográfico, realista e inspirador, representando o avanço da inteligência artificial e o início de uma nova era tecnológica. Alta resolução, formato vertical, ideal para capa de eBook. |
 
 ## ✨ Criação
 
